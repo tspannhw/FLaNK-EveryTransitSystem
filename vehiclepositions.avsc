@@ -1,0 +1,121 @@
+{
+  "type": "record",
+  "name": "inferredSchema",
+  "fields": [
+    {
+      "name": "route_id",
+      "type": "string",
+      "doc": "Type inferred from '\"Q24\"'"
+    },
+    {
+      "name": "bearing",
+      "type": "string",
+      "doc": "Type inferred from '\"330.26544\"'"
+    },
+    {
+      "name": "directionid",
+      "type": "string",
+      "doc": "Type inferred from '\"0\"'"
+    },
+    {
+      "name": "latitude",
+      "type": "string",
+      "doc": "Type inferred from '\"40.681454\"'"
+    },
+    {
+      "name": "tripid",
+      "type": "string",
+      "doc": "Type inferred from '\"EN_D3-Weekday-SDon-073000_B12_14\"'"
+    },
+    {
+      "name": "vehiclelabel",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "vehicleid",
+      "type": "string",
+      "doc": "Type inferred from '\"MTA NYCT_7112\"'"
+    },
+    {
+      "name": "startdate",
+      "type": "string",
+      "doc": "Type inferred from '\"20231212\"'"
+    },
+    {
+      "name": "uuid",
+      "type": "string",
+      "doc": "Type inferred from '\"ecd57193-1640-48ac-a7a7-bc9464abc337\"'"
+    },
+    {
+      "name": "speed",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "longitude",
+      "type": "string",
+      "doc": "Type inferred from '\"-73.90795\"'"
+    },
+    {
+      "name": "timestamp",
+      "type": "string",
+      "doc": "Type inferred from '\"1702402033\"'"
+    },
+    {
+      "name": "locationcountrycode",
+      "type": "string",
+      "doc": "Type inferred from '\"US\"'"
+    },
+    {
+      "name": "maxlat",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "maxlong",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "locationmunicipality",
+      "type": "string",
+      "doc": "Type inferred from '\"New York City\"'"
+    },
+    {
+      "name": "minlong",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "locationsubdivisionname",
+      "type": "string",
+      "doc": "Type inferred from '\"New York\"'"
+    },
+    {
+      "name": "minlat",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "ts",
+      "type": "string",
+      "doc": "Type inferred from '\"1702402064152\"'"
+    },
+    {
+      "name": "rundate",
+      "type": "string",
+      "doc": "Type inferred from '\"\"'"
+    },
+    {
+      "name": "providername",
+      "type": "string",
+      "doc": "Type inferred from '\"MTA\"'"
+    },
+    {
+      "name": "transitname",
+      "type": "string",
+      "doc": "Type inferred from '\"obanyc\"'"
+    }
+  ]
+}
